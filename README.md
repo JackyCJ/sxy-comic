@@ -19,3 +19,5 @@ comic downloader tool
 |[manhuadb.com](http://www.manhuadb.com)|
 |[hhimm.com](http://www.hhimm.com)|
 |[更多请在 __Issues__ 提交](https://github.com/JackyCJ/sxy-comic/issues)|
+
+使用有问题请联系QQ：1113841178
