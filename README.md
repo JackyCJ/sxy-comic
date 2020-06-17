@@ -1,7 +1,7 @@
 # sxy-comic
 comic downloader tool
 
-[点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/v0.1/comic_downloader_v0.1.exe)
+[点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/0.1.1/comic_downloader_v0.1.1.exe)
 
 使用步骤：
 
