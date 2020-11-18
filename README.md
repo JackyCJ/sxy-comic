@@ -25,3 +25,8 @@
 ---
 ## JPG图片转PDF工具
 [点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/Tools_v0.1/tools.exe)
+
+使用步骤：
+
+1. 在输入框粘贴JPG所在文件夹路径，点击生成，会生成文件夹同名pdf文件。
+![](https://tva1.sinaimg.cn/large/0081Kckwly1gkth2fvm83j308402u745.jpg)
