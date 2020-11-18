@@ -1,6 +1,6 @@
 # sxy-comic
-comic downloader tool
-
+---
+## 漫画下载工具(comic downloader tool)
 [点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/v0.1.2/comic_downloader_v0.1.2.exe)
 
 使用步骤：
@@ -22,4 +22,6 @@ comic downloader tool
 |[mangabz.com](http://www.mangabz.com)|
 |[更多请在 __Issues__ 提交](https://github.com/JackyCJ/sxy-comic/issues)|
 
-使用有问题请联系QQ：1113841178
+---
+## JPG图片转PDF工具
+[点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/Tools_v0.1/tools.exe)
