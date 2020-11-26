@@ -49,3 +49,4 @@ m4/lt~obsolete.m4
 Makefile
 *.html
 *.log
+.DS_Store
