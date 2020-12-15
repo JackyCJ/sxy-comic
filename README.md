@@ -24,6 +24,8 @@
 |[mangabz.com](http://www.mangabz.com)|
 |[更多请在 __Issues__ 提交](https://github.com/JackyCJ/sxy-comic/issues)|
 
+[点击链接加入群聊【小天漫画屋】，一起交流更多](https://jq.qq.com/?_wv=1027&k=VAYlYK44)
+
 ---
 ## JPG图片转PDF工具
 [点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/Tools_v0.1/tools.exe)
