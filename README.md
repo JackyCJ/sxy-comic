@@ -1,7 +1,7 @@
 # sxy-comic
 ---
 ## 漫画下载工具(comic downloader tool)
-[Windows版 点击下载](hhttps://github.com/JackyCJ/sxy-comic/releases/download/V1.0.21.082401/ComicDownloaderV1.0.21.082401.exe)
+[Windows版 点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/V1.0.21.082401/ComicDownloaderV1.0.21.082401.exe)
 
 [Mac版 点击下载](https://github.com/JackyCJ/sxy-comic/releases/download/macv0.1/comicdownloader.app.zip)
 
